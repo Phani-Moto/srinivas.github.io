@@ -1,2 +1,2 @@
-# srinivas.github.io
+# Phani-Moto.github.io
 Coding Test
